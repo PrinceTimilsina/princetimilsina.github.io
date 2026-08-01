@@ -1,3 +1,4 @@
+import React from "react";
 import { FiCheckCircle, FiXCircle } from "react-icons/fi";
 import Reveal from "./Reveal.jsx";
 import StickerTag from "./StickerTag.jsx";

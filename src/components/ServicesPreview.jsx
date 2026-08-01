@@ -1,3 +1,4 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import Reveal from "./Reveal.jsx";
 import StickerTag from "./StickerTag.jsx";

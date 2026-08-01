@@ -1,3 +1,4 @@
+import React from "react";
 import PageTransition from "../components/PageTransition.jsx";
 import Reveal from "../components/Reveal.jsx";
 import StickerTag from "../components/StickerTag.jsx";

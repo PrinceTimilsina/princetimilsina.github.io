@@ -1,3 +1,4 @@
+import React from "react";
 import { useParams, Link, Navigate } from "react-router-dom";
 import PageTransition from "../components/PageTransition.jsx";
 import StickerTag from "../components/StickerTag.jsx";

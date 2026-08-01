@@ -1,3 +1,4 @@
+import React from "react";
 import { useLocation } from "react-router-dom";
 import { FiGithub, FiLinkedin, FiMail, FiArrowUp } from "react-icons/fi";
 import { useCursorVariant } from "../hooks/useCursorVariant.js";

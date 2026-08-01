@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useMemo } from "react";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
 

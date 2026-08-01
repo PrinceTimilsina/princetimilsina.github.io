@@ -1,3 +1,4 @@
+import React from "react";
 import { motion } from "framer-motion";
 import Reveal from "./Reveal.jsx";
 import StickerTag from "./StickerTag.jsx";

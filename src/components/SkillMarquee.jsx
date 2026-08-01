@@ -1,3 +1,4 @@
+import React from "react";
 import Reveal from "./Reveal.jsx";
 import { skillLogos } from "../data/skillLogos.js";
 

@@ -1,3 +1,4 @@
+import React from "react";
 import { motion } from "framer-motion";
 
 export default function Reveal({ children, delay = 0, y = 28, className = "" }) {

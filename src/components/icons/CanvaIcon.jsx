@@ -1,3 +1,4 @@
+import React from "react";
 // Canva has no icon in the simple-icons set this project ships with, so
 // this is a small hand-built approximation of its circular gradient
 // mark — not a pixel copy, just enough to read as "Canva" in a muted,

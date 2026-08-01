@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import { FiGithub } from "react-icons/fi";
 import PageTransition from "../components/PageTransition.jsx";

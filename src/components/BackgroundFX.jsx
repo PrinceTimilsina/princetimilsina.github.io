@@ -1,3 +1,4 @@
+import React from "react";
 /**
  * Site-wide background: two soft, colorless gradient washes. No dot
  * grid, no particles here — those patterns read as generic/templated at

@@ -1,3 +1,4 @@
+import React from "react";
 import { motion } from "framer-motion";
 import { FiImage } from "react-icons/fi";
 import Reveal from "./Reveal.jsx";

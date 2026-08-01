@@ -1,3 +1,4 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import PageTransition from "../components/PageTransition.jsx";
 import Reveal from "../components/Reveal.jsx";
